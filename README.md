@@ -1,4 +1,4 @@
-# Dad jokes app - Native android app writen in Kotlin
+# Dad jokes app - Native Android app writen in Kotlin
 
 
 <img align="right" src="https://github.com/puhacinboris/puhacinboris/blob/main/images/dad_jokes.png"/>
