@@ -3,13 +3,13 @@
 
 <img align="right" src="https://github.com/puhacinboris/puhacinboris/blob/main/images/dad_jokes.png"/>
 
-Dad jokes app implements google's prefered **MVVM** architecture along with *Dagger-Hilt* dependency injection.
+Dad jokes app implements google's preferred **MVVM** architecture along with *Dagger-Hilt* dependency injection.
 
 The app uses *retrofit2* library to consume data (jokes) from [API](https://icanhazdadjoke.com/) and output it to the user via *viewModel*.
 
 [API](https://icanhazdadjoke.com/) is free and doesn't require any authorization.
 
-The app is getting a random joke by default everytime but it can be expended e.g. with a search function.
+The app is getting a random joke by default everytime but it can be expanded e.g. with a search function.
 
 The app also has the ability to share your favorite joke.
 
